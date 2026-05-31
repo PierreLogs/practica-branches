@@ -1,0 +1,1 @@
+function logout() {return false; }
